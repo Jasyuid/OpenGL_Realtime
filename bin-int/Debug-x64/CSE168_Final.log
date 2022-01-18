@@ -1,5 +1,0 @@
-﻿  Application.cpp
-  Model.cpp
-C:\Users\Justin\source\repos\CSE168_Final\CSE168_Final\src\Renderer\Model.cpp(145,116): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
-  CheckpointScene.cpp
-  CSE168_Final.vcxproj -> C:\Users\Justin\source\repos\CSE168_Final\bin\Debug-x64\CSE168_Final.exe
